@@ -12,4 +12,4 @@ json-server --watch db.json --port 3004
 npm run dev
 ```
 
-PS> Focus on functionality CSS styling needs extra love.
+PS> Focus on functionality CSS styling needs more work.
