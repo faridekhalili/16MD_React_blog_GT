@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": "J1u2dCwvxWda45nAal-v6",
+      "title": "Morocco",
+      "image": "https://www.africa.com/wp-content/uploads/2019/01/morocco.jpg",
+      "content": "Morocco is located in North Africa, world population review estimates Morocco’s population at 36,496,532 (2018). Including the disputed Western Sahara, its area is 710,850 sq. km. Morocco claims the territory of Western Sahara, the political status of which is considered undetermined by the US Government; portions of the regions Guelmim-Es Smara and Laayoune-Boujdour-Sakia El Hamra as claimed by Morocco lie within Western Sahara; Morocco also claims Oued Eddahab-Lagouira, another region that falls entirely within Western Sahara.",
+      "author": "Random Person"
+    },
+    {
+      "id": "8EvlwTY3W_YeRcRUYgyxX",
+      "title": "Riga",
+      "image": "https://travelpassionate.com/wp-content/uploads/2018/10/Things-To-Do-In-Riga-In-Winter.jpg",
+      "content": "Riga, the capital of Latvia, is not only the crown jewel of Latvia, but also of the Baltics. Riga’s Old Town is a UNESCO World Heritage Site. Riga has more than 600 000 inhabitants, making it the largest city in the Baltic States.\n\nRiga is also known as an architectural jewel – a city where you can see churches from the city’s origins, medieval buildings in the Old Town, unique examples of Art Nouveau, as well as wooden architecture that has survived the centuries and modern architectural jewels.",
+      "author": "GT"
+    },
+    {
+      "id": "hhYh5qZ_LCuMstitX9qb3",
+      "title": "Mumbai",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/SBML9878-140422-BackBay_skyline.jpg/576px-SBML9878-140422-BackBay_skyline.jpg",
+      "content": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry.",
+      "author": "Julius"
+    }
+  ],
+  "comments": [
+    {
+      "id": "_azZ_O0l2GiwnJ9r7cSkR",
+      "comment": "The city actually looks quite nice. I hope to visit it one day.",
+      "author": "Adolf",
+      "postId": "8EvlwTY3W_YeRcRUYgyxX"
+    }
+  ]
+}
